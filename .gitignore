@@ -11,6 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+.prettierrc
+.vite.config.js
+tailwind.config.js
+.eslintrc.cjs
 
 # Editor directories and files
 .vscode/*
